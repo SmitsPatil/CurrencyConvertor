@@ -126,7 +126,6 @@ The application automatically fetches exchange rate data from the API when the s
 ---
 
 
----
 
 ## Author
 Student Project – Currency Converter using Java Web Technologies
