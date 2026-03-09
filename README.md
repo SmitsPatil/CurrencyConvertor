@@ -125,33 +125,6 @@ The application automatically fetches exchange rate data from the API when the s
 
 ---
 
-## Application Screenshots
-
-### Currency Conversion
-Shows the result after converting one currency to another.
-
-![Currency Conversion](images/conversion.png)
-
----
-
-### CSV Export
-Shows the downloaded CSV file containing exchange rate data.
-
-![CSV Export](images/csv.png)
-
----
-
-### MySQL Database Table
-Displays the stored exchange rate data in the database.
-
-![MySQL Table](images/mysql1.png)
-
----
-
-### MySQL Database Records
-Shows additional rows of stored exchange rate records.
-
-![MySQL Data](images/mysql2.png)
 
 ---
 
