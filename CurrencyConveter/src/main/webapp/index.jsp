@@ -224,11 +224,12 @@
         <!-- Footer -->
         <footer class="w-full py-6 px-10 border-t border-gray-200 dark:border-gray-800 text-center">
     <p class="text-sm text-gray-500 dark:text-gray-400">
-        © 2026 RN:68/69 Smit Patil / Shirin Shaikh Currency Converter 
+        Â© 2026 RN:68/69 Smit Patil / Shirin Shaikh | Currency Converter 
     </p>
 </footer>
 
     </div>
 </body>
+
 
 </html>
